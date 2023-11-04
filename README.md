@@ -22,6 +22,13 @@ The widget supports three color schemes:
 
 The "auto" option automatically adapts to the system color scheme. You can set the color scheme using the `color-scheme` attribute in the script tag.
 
+## Preview
+
+![image](https://github.com/sabareesh-s/crypto-widget/assets/87223017/a9135269-4edb-4754-bb2b-c0cc46f5406e)
+![image](https://github.com/sabareesh-s/crypto-widget/assets/87223017/c3b771bb-25dd-4a74-b156-3d40a6dab30b)
+
+
+
 ## API used
 
 Coingecko API is used for this project
