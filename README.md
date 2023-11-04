@@ -26,4 +26,4 @@ The "auto" option automatically adapts to the system color scheme. You can set t
 
 Coingecko API is used for this project
 
-Enjoy your cryptocurrency widget! 🚀
+Thank you :)
