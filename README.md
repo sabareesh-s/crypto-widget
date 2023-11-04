@@ -22,4 +22,8 @@ The widget supports three color schemes:
 
 The "auto" option automatically adapts to the system color scheme. You can set the color scheme using the `color-scheme` attribute in the script tag.
 
+## API used
+
+Coingecko API is used for this project
+
 Enjoy your cryptocurrency widget! 🚀
