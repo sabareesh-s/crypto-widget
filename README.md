@@ -13,7 +13,7 @@ To add a cryptocurrency widget to your project, simply copy and paste the follow
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/sabareesh-s/crypto-widget/coinGeckoWidget.js" data-token="bitcoin" color-scheme="light"></script>
 ```
 
-You can find the JavaScript file hosted at this URL: [Crypto Widget JS File](https://cdn.jsdelivr.net/gh/sabareesh-s/crypto-widget/coinGeckoWidget.js).
+You can find the JavaScript file hosted at this URL: [Crypto Widget JS File](https://cdn.jsdelivr.net/gh/sabareesh-s/crypto-widget/coinGeckoWidget.js). (https://cdn.jsdelivr.net/gh/sabareesh-s/crypto-widget/coinGeckoWidget.js)
 
 Make sure to change the `data-token` attribute to specify the cryptocurrency you want to display.
 
