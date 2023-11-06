@@ -1,5 +1,10 @@
 # Crypto Widget Readme
 
+## Demo link
+
+Go here to see the demo of this project
+https://crypto-widget-demo.netlify.app/
+
 ## Usage
 
 To add a cryptocurrency widget to your project, simply copy and paste the following script tag into your HTML:
